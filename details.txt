@@ -1,0 +1,4 @@
+mongosh "mongodb+srv://gtddemo.sot7hn3.mongodb.net/" --apiVersion 1 --username bhaskardhote7 --password ZQ8W1VdvUjG647UL
+
+
+mongodb+srv://bhaskardhote7:<password>@gtddemo.sot7hn3.mongodb.net/?retryWrites=true&w=majority&appName=GTDDEMO
