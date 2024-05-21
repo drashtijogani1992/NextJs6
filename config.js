@@ -41,9 +41,9 @@ const jsonConfig = {
 }
 
 if (process.env.NODE_ENV == 'development') {
-    jsonConfig.API_URL = "http://localhost:3000"
-    jsonConfig.WEBSITE_URL = "http://localhost:3000"
-    jsonConfig.IMG_URL = "http://localhost:3000"
+    jsonConfig.API_URL = "admin/"
+    jsonConfig.WEBSITE_URL = "website/"
+    jsonConfig.IMG_URL = "backend/"
 }
 
 
